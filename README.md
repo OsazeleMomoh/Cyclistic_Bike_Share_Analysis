@@ -4,7 +4,7 @@
 This repository will house my work for the Google Data Analysis Capstone Project.
 This task entailed the analysis of bike-share data for a company to provide their marketing team with insights into how their annual and casual members use the program differently. This would be sent to my colleagues in the team to give out recommendations, which would then be sent to the director of marketing. I used *Excel* for this task. I chose *Excel* for this task as this would be my first *Excel* dashboard project. However, this project can be done using *R*, *Python* and *SQL*.
 
-- Dataset Link: ![Year 2025 Dataset](https://divvy-tripdata.s3.amazonaws.com/index.html)
+- Dataset Link: https://divvy-tripdata.s3.amazonaws.com/index.html
 
 ## Dashboard Insights
 - Busiest Day of the Week.
@@ -14,17 +14,18 @@ This task entailed the analysis of bike-share data for a company to provide thei
 - Percentage of Riders by Membership Type
 - Average Ride Length of Users By Membership Type
 - Trip Count By Bike and Membership Types.
-- Landing Page for ease of use.
+- Landing Page for ease of use
+- Backend data to explore pivot tables used.
 
 ## Repository Structure  
- Dashboard 1: ![alt text](https://github.com/OsazeleMomoh/FUTURE_DS_02/blob/main/Task2%20-%20Future%20Interns.png "Logo title text 1")
+ Dashboard Landing Page: ![landing_page](https://github.com/OsazeleMomoh/Cyclistic_Bike_Share_Analysis/blob/main/Dashboard%20Landing%20Page.png)
   
- Dashboard 2: ![alt text](https://github.com/OsazeleMomoh/FUTURE_DS_02/blob/main/Task2%20-%20Continuation.png "Logo title text 2")
+ Monthly Dashboard 1: ![monthly_dashboard_1](https://github.com/OsazeleMomoh/Cyclistic_Bike_Share_Analysis/blob/main/Monthly%20Dashboard%201.png)
 
-## Excel File
-  Excel File: https://docs.google.com/spreadsheets/d/1-zUAsCHSvJLp5w_i3QugfwAM4hMmtrgL/edit?usp=drive_link&ouid=113705772158404645457&rtpof=true&sd=true 
+ Monthly Dashboard 2: ![monthly_dashboard_2](https://github.com/OsazeleMomoh/Cyclistic_Bike_Share_Analysis/blob/main/Monthly%20Dashboard%202.png)
+
+ Excel File: https://drive.google.com/file/d/15uEwirnHC0cLPlp2sj06jJvw9tkGytFD/view?usp=drive_link 
   
- 
 ## Highlights from Analysis
 - Females (F) generate the most impressions (114.8M) and the most clicks (23.8k).
 - Impressions are highest on Wednesdays. 
@@ -48,5 +49,7 @@ This task entailed the analysis of bike-share data for a company to provide thei
 
 ## How to use
 1. Download or clone this repository.
-2. Download and open the *Excel* file with *Microsoft Excel*.
-3. Explore the interactive dashboard and insights.
+2. Download the zip file to access the *Excel* file
+3. Extract the zip file (using WinRAR or The Unarchiver)
+4. Open the *Excel* file with *Microsoft Excel*.
+5. Explore the interactive dashboard and insights.
